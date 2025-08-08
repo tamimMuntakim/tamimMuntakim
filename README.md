@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="i.ibb.co.com/HDwKMd8b/tamim-banner.png" alt="Banner" width="100%" />
+</p>
+
+
 # 💫 About Me:
 I’m a passionate web developer currently diving deep into front-end technologies.  
 I love turning ideas into responsive and interactive websites.  
