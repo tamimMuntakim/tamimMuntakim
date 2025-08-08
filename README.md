@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/HDwKMd8b/tamim-banner.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/rfmwzXG6/tamim-banner-2.png" alt="Banner" width="100%" />
 </p>
 
 
